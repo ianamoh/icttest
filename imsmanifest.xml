@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5u2rAL0e8qk_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Dr Naoumi - ICT.Test.L3.2.23.24 </langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Dr_Naoumi_-_ICT.Test.L3.2.23.24__ORG">
+    <organization identifier="Dr_Naoumi_-_ICT.Test.L3.2.23.24__ORG">
+      <title>Dr Naoumi - ICT.Test.L3.2.23.24 </title>
+      <item identifier="ICT.Test.2.23.24_SCO" isvisible="true" identifierref="__5u2rAL0e8qk_course_id_RES">
+        <title>Dr Naoumi - ICT.Test.L3.2.23.24 </title>
+        <adlcp:masteryscore>50</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5u2rAL0e8qk_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="meta.xml" />
+      <file href="mobile/610S8gzGt2L.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5kmWHv4SQBJ.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5brf61nj7KC.js" />
+      <file href="html5/data/js/5izDoZmNckd.js" />
+      <file href="html5/data/js/5j41QSYuWpN.js" />
+      <file href="html5/data/js/5meRj0AWyjH.js" />
+      <file href="html5/data/js/5rpc8epJsQ8.js" />
+      <file href="html5/data/js/5sOZGV5WYsP.js" />
+      <file href="html5/data/js/5vcT4y9DIVl.js" />
+      <file href="html5/data/js/5YAnXVdxo7d.js" />
+      <file href="html5/data/js/5ZbdiJ42GSl.js" />
+      <file href="html5/data/js/5ZgvKyJkQBy.js" />
+      <file href="html5/data/js/6b1zfFK7zaZ.js" />
+      <file href="html5/data/js/6B4BbNxfbdk.js" />
+      <file href="html5/data/js/6d40n6payd4.js" />
+      <file href="html5/data/js/6DtlChBgFM5.js" />
+      <file href="html5/data/js/6fFiEBrYGY8.js" />
+      <file href="html5/data/js/6gernyWp5s8.js" />
+      <file href="html5/data/js/6HteUTI3ixa.js" />
+      <file href="html5/data/js/6Jgh00JtsrD.js" />
+      <file href="html5/data/js/6n93XkyBviA.js" />
+      <file href="html5/data/js/6nxOD79WG7U.js" />
+      <file href="html5/data/js/6pjm2PRMFJM.js" />
+      <file href="html5/data/js/6XhscPbe0Zf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
